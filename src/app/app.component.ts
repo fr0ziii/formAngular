@@ -8,7 +8,10 @@ import { Employee } from './models/employee';
 export class AppComponent {
   
   employeeArray: Employee[] = [
-    {id: 1, name: "test", country: "test"}
+    {id: 1, name: "David", country: "España"},
+    {id: 2, name: "DAW2", country: "India"},
+    {id: 3, name: "Cristina", country: "USA"},
+    {id: 4, name: "Claire", country: "Canadá"},
   ];
 
   selectedEmployee: Employee = new Employee();
