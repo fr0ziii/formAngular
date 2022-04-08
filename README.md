@@ -1,7 +1,7 @@
 
 # Este proyecto consiste en la implementación de un Formulario CRUD en Angular
 
-Para la implementación del formulario y el CRUD, he utilizado la librería de Bootstrap 4 para utilizar componentes que me eran útil en la implementación.
+Para la implementación del formulario y el CRUD, he utilizado la librería de Bootstrap 4 y el módulo FormModule para utilizar componentes que me eran útil en la implementación.
 
 # Estructura del Formulario
 
