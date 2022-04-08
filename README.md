@@ -5,7 +5,8 @@ Para la implementación del formulario y el CRUD, he utilizado la librería de B
 
 # Estructura del Formulario
 
-![images](https://user-images.githubusercontent.com/58311234/160182204-62d527a2-e4db-4f33-a5f4-80e1ab6cef44.jpg)
+![Captura](https://user-images.githubusercontent.com/58311234/162528739-9326084f-8272-4bb1-8b3c-1208799f2301.PNG)
+
 
 El formulario para crear/editar empleado consta de dos campos para rellenar que sería el nombre y el país del empleado.
 
